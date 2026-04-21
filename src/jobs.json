@@ -4,12 +4,12 @@
       "id": "1",
       "title": "Senior React Developer",
       "type": "Full-Time",
-      "description": "We are seeking a talented Front-End Developer to join our team in London, UK. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as React or Angular.",
+      "description": "We are seeking a talented Front-End Developer to join our team in London, UK.",
       "location": "London, UK",
       "salary": "£60K - £80K",
       "company": {
         "name": "NewTek Solutions UK",
-        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services while fostering a collaborative and innovative work environment.",
+        "description": "Technology company specializing in web development.",
         "contactEmail": "contact@newtek.co.uk",
         "contactPhone": "+44 20 7946 0958"
       }
@@ -19,11 +19,11 @@
       "title": "Front-End Engineer (React & Redux)",
       "type": "Full-Time",
       "location": "Manchester, UK",
-      "description": "Join our team as a Front-End Developer in Manchester. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles is highly desirable.",
+      "description": "Work on modern UI applications using React.",
       "salary": "£40K - £65K",
       "company": {
         "name": "Veneer Solutions UK",
-        "description": "Veneer Solutions is a creative agency specializing in digital design and development. Our team pushes the boundaries of creativity and innovation to deliver exceptional results.",
+        "description": "Creative digital agency.",
         "contactEmail": "contact@veneer.co.uk",
         "contactPhone": "+44 161 496 0999"
       }
@@ -33,11 +33,11 @@
       "title": "React.js Developer",
       "type": "Full-Time",
       "location": "Birmingham, UK",
-      "description": "Are you passionate about front-end development? Join our team in Birmingham and work on exciting projects that make a difference. We offer competitive compensation and a collaborative work environment.",
+      "description": "Build scalable web apps using React.",
       "salary": "£50K - £75K",
       "company": {
         "name": "Dolor Cloud UK",
-        "description": "Dolor Cloud is a leading technology company specializing in digital solutions for businesses of all sizes, with a focus on innovation and customer satisfaction.",
+        "description": "Cloud-based solutions company.",
         "contactEmail": "contact@dolorcloud.co.uk",
         "contactPhone": "+44 121 496 0110"
       }
@@ -46,12 +46,12 @@
       "id": "4",
       "title": "React Front-End Developer",
       "type": "Part-Time",
-      "description": "Join our team as a Part-Time Front-End Developer in Bristol, UK. We are looking for a self-motivated individual with a passion for creating engaging user experiences. Flexible hours available.",
       "location": "Bristol, UK",
+      "description": "Flexible part-time React developer role.",
       "salary": "£30K - £45K",
       "company": {
         "name": "Alpha Elite UK",
-        "description": "Alpha Elite is a dynamic startup specializing in digital marketing and web development, committed to fostering a diverse and inclusive workplace.",
+        "description": "Startup focused on digital marketing.",
         "contactEmail": "contact@alphaelite.co.uk",
         "contactPhone": "+44 117 496 0123"
       }
@@ -60,12 +60,12 @@
       "id": "5",
       "title": "Full Stack React Developer",
       "type": "Full-Time",
-      "description": "Exciting opportunity for a Full Stack Developer in Leeds, UK. We are seeking a talented individual with a passion for building scalable web applications.",
       "location": "Leeds, UK",
+      "description": "Work on full stack applications.",
       "salary": "£70K - £90K",
       "company": {
         "name": "Browning Technologies UK",
-        "description": "Browning Technologies is a rapidly growing company specializing in e-commerce solutions with a strong focus on innovation.",
+        "description": "E-commerce solutions company.",
         "contactEmail": "contact@browningtech.co.uk",
         "contactPhone": "+44 113 496 0456"
       }
@@ -74,14 +74,266 @@
       "id": "6",
       "title": "React Native Developer",
       "type": "Full-Time",
-      "description": "Join our team as a React Native Developer in Edinburgh, UK. We are looking for a skilled individual to help create innovative mobile solutions.",
       "location": "Edinburgh, UK",
+      "description": "Build mobile apps using React Native.",
       "salary": "£75K - £95K",
       "company": {
         "name": "Port Solutions UK",
-        "description": "Port Solutions is a leading technology company specializing in software development and digital marketing.",
+        "description": "Software development company.",
         "contactEmail": "contact@portsolutions.co.uk",
         "contactPhone": "+44 131 496 0789"
+      }
+    },
+    {
+      "id": "7",
+      "title": "Junior React Developer",
+      "type": "Full-Time",
+      "location": "London, UK",
+      "description": "Entry-level React developer role.",
+      "salary": "£30K - £40K",
+      "company": {
+        "name": "StartUp Hub UK",
+        "description": "Startup incubator.",
+        "contactEmail": "jobs@startuphub.co.uk",
+        "contactPhone": "+44 20 7000 1001"
+      }
+    },
+    {
+      "id": "8",
+      "title": "Senior Frontend Engineer",
+      "type": "Full-Time",
+      "location": "Liverpool, UK",
+      "description": "Lead frontend development projects.",
+      "salary": "£65K - £85K",
+      "company": {
+        "name": "PixelCraft UK",
+        "description": "Digital product studio.",
+        "contactEmail": "careers@pixelcraft.co.uk",
+        "contactPhone": "+44 151 496 2233"
+      }
+    },
+    {
+      "id": "9",
+      "title": "React UI Developer",
+      "type": "Full-Time",
+      "location": "Leicester, UK",
+      "description": "Focus on UI components and design systems.",
+      "salary": "£45K - £60K",
+      "company": {
+        "name": "UI Forge UK",
+        "description": "UI/UX focused company.",
+        "contactEmail": "hello@uiforge.co.uk",
+        "contactPhone": "+44 116 496 8899"
+      }
+    },
+    {
+      "id": "10",
+      "title": "React Software Engineer",
+      "type": "Full-Time",
+      "location": "Oxford, UK",
+      "description": "Develop modern web applications.",
+      "salary": "£55K - £75K",
+      "company": {
+        "name": "Oxford Digital Labs",
+        "description": "Tech research and development.",
+        "contactEmail": "jobs@oxfordlabs.co.uk",
+        "contactPhone": "+44 1865 496 111"
+      }
+    },
+    {
+      "id": "11",
+      "title": "Frontend Developer React",
+      "type": "Full-Time",
+      "location": "Cambridge, UK",
+      "description": "Work on innovative web platforms.",
+      "salary": "£60K - £80K",
+      "company": {
+        "name": "CamTech Solutions",
+        "description": "AI and software solutions.",
+        "contactEmail": "contact@camtech.co.uk",
+        "contactPhone": "+44 1223 496 222"
+      }
+    },
+    {
+      "id": "12",
+      "title": "React Web Developer",
+      "type": "Part-Time",
+      "location": "Cardiff, UK",
+      "description": "Part-time web development role.",
+      "salary": "£25K - £35K",
+      "company": {
+        "name": "Wales Digital Studio",
+        "description": "Web design agency.",
+        "contactEmail": "hello@walesstudio.co.uk",
+        "contactPhone": "+44 29 2000 1111"
+      }
+    },
+    {
+      "id": "13",
+      "title": "React Developer",
+      "type": "Full-Time",
+      "location": "Nottingham, UK",
+      "description": "Build scalable React applications.",
+      "salary": "£50K - £70K",
+      "company": {
+        "name": "Notts Tech",
+        "description": "Software company.",
+        "contactEmail": "jobs@nottstech.co.uk",
+        "contactPhone": "+44 115 496 7777"
+      }
+    },
+    {
+      "id": "14",
+      "title": "Senior React Engineer",
+      "type": "Full-Time",
+      "location": "Sheffield, UK",
+      "description": "Senior role in frontend architecture.",
+      "salary": "£70K - £90K",
+      "company": {
+        "name": "Steel City Devs",
+        "description": "Tech company in Sheffield.",
+        "contactEmail": "careers@steelcity.co.uk",
+        "contactPhone": "+44 114 496 8888"
+      }
+    },
+    {
+      "id": "15",
+      "title": "React Frontend Specialist",
+      "type": "Full-Time",
+      "location": "York, UK",
+      "description": "Frontend specialist role.",
+      "salary": "£55K - £70K",
+      "company": {
+        "name": "York Digital",
+        "description": "Digital solutions provider.",
+        "contactEmail": "hello@yorkdigital.co.uk",
+        "contactPhone": "+44 1904 496 3333"
+      }
+    },
+    {
+      "id": "16",
+      "title": "React Developer Intern",
+      "type": "Internship",
+      "location": "London, UK",
+      "description": "Internship for React beginners.",
+      "salary": "£15K - £20K",
+      "company": {
+        "name": "FutureTech UK",
+        "description": "Training and tech company.",
+        "contactEmail": "interns@futuretech.co.uk",
+        "contactPhone": "+44 20 7123 4567"
+      }
+    },
+    {
+      "id": "17",
+      "title": "Mid-Level React Developer",
+      "type": "Full-Time",
+      "location": "Glasgow, UK",
+      "description": "Mid-level frontend developer role.",
+      "salary": "£45K - £60K",
+      "company": {
+        "name": "Scottish Dev Group",
+        "description": "Software development company.",
+        "contactEmail": "contact@scotdev.co.uk",
+        "contactPhone": "+44 141 496 9999"
+      }
+    },
+    {
+      "id": "18",
+      "title": "React & TypeScript Developer",
+      "type": "Full-Time",
+      "location": "London, UK",
+      "description": "Work with React and TypeScript.",
+      "salary": "£65K - £85K",
+      "company": {
+        "name": "CodeBridge UK",
+        "description": "Modern software house.",
+        "contactEmail": "hello@codebridge.co.uk",
+        "contactPhone": "+44 20 7999 1234"
+      }
+    },
+    {
+      "id": "19",
+      "title": "Frontend Architect (React)",
+      "type": "Full-Time",
+      "location": "London, UK",
+      "description": "Architect scalable frontend systems.",
+      "salary": "£90K - £120K",
+      "company": {
+        "name": "Enterprise Web UK",
+        "description": "Enterprise software solutions.",
+        "contactEmail": "jobs@enterpriseweb.co.uk",
+        "contactPhone": "+44 20 7111 2222"
+      }
+    },
+    {
+      "id": "20",
+      "title": "React Developer",
+      "type": "Full-Time",
+      "location": "Brighton, UK",
+      "description": "Build modern UI applications.",
+      "salary": "£50K - £70K",
+      "company": {
+        "name": "Bright Digital",
+        "description": "Creative digital agency.",
+        "contactEmail": "hello@brightdigital.co.uk",
+        "contactPhone": "+44 1273 496 5555"
+      }
+    },
+    {
+      "id": "21",
+      "title": "React Engineer",
+      "type": "Full-Time",
+      "location": "London, UK",
+      "description": "Frontend engineering role.",
+      "salary": "£60K - £80K",
+      "company": {
+        "name": "NextGen Devs",
+        "description": "Modern dev agency.",
+        "contactEmail": "contact@nextgen.co.uk",
+        "contactPhone": "+44 20 7333 4444"
+      }
+    },
+    {
+      "id": "22",
+      "title": "React UI Engineer",
+      "type": "Full-Time",
+      "location": "Bristol, UK",
+      "description": "UI-focused React development.",
+      "salary": "£55K - £75K",
+      "company": {
+        "name": "DesignCode UK",
+        "description": "UI/UX engineering studio.",
+        "contactEmail": "hello@designcode.co.uk",
+        "contactPhone": "+44 117 496 7777"
+      }
+    },
+    {
+      "id": "23",
+      "title": "React Developer",
+      "type": "Full-Time",
+      "location": "Leeds, UK",
+      "description": "Develop scalable applications.",
+      "salary": "£50K - £70K",
+      "company": {
+        "name": "Northern Tech UK",
+        "description": "Software company in the North.",
+        "contactEmail": "jobs@northerntech.co.uk",
+        "contactPhone": "+44 113 496 8888"
+      }
+    },
+    {
+      "id": "24",
+      "title": "Senior React Developer",
+      "type": "Full-Time",
+      "location": "London, UK",
+      "description": "Senior frontend role with leadership.",
+      "salary": "£80K - £100K",
+      "company": {
+        "name": "Elite Software UK",
+        "description": "High-end software consultancy.",
+        "contactEmail": "careers@elitesoftware.co.uk",
+        "contactPhone": "+44 20 7888 9999"
       }
     }
   ]
