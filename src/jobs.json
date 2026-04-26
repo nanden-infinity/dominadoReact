@@ -212,7 +212,7 @@
     },
     {
       "id": "16",
-      "title": "React Developer Intern",
+      "title": "React Developer Internacional",
       "type": "Internship",
       "location": "London, UK",
       "description": "Internship for React beginners.",
@@ -226,7 +226,7 @@
     },
     {
       "id": "17",
-      "title": "Mid-Level React Developer",
+      "title": "Mid-Level React Developer IA",
       "type": "Full-Time",
       "location": "Glasgow, UK",
       "description": "Mid-level frontend developer role.",
@@ -336,5 +336,6 @@
         "contactPhone": "+44 20 7888 9999"
       }
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }

@@ -1,30 +1,20 @@
-// import { useState, useEffect } from 'react';
-import { useParams, useLoaderData, Link } from 'react-router-dom';
+import { useParams, useLoaderData, Link, useNavigate } from 'react-router-dom';
 import { FaArrowLeft, FaMapMarker } from 'react-icons/fa';
-export const JobPage = () => {
-  // const [job, setJob] = useState(null);
-  // const [loading, setLoading] = useState(true);
-  // const { id } = useParams();
-  // useEffect(() => {
-  //   const fetchJob = async () => {
-  //     try {
-  //       const response = await fetch(`/api/jobs/${id}`);
-  //       if (!response.ok) {
-  //         throw new Error('Failed to fetch job');
-  //       }
-  //       const data = await response.json();
+import { toast } from 'react-toastify';
 
-  //       setJob(data);
-  //     } catch (error) {
-  //       console.error('Error fetching job:', error);
-  //     } finally {
-  //       setLoading(false);
-  //     }
-  //   };
-  //   fetchJob();
-  // }, []);
-
+export const JobPage = ({ deleteJob }) => {
+  const navigate = useNavigate();
   const job = useLoaderData();
+  const onDeleteClick = jobId => {
+    const confirm = window.confirm(
+      'Are you sure you want delete this listing?',
+    );
+    if (!confirm) return;
+
+    deleteJob(jobId);
+    toast.success('Job delete successfully!', { autoClose: 3000 });
+    navigate('/jobs');
+  };
   return (
     <>
       <section>
@@ -100,7 +90,10 @@ export const JobPage = () => {
                 >
                   Edit Job
                 </Link>
-                <button className="bg-red-500 hover:bg-red-600 text-white font-bold py-2 px-4 rounded-full w-full focus:outline-none focus:shadow-outline mt-4 block">
+                <button
+                  onClick={() => onDeleteClick(job.id)}
+                  className="bg-red-500 hover:bg-red-600 text-white font-bold py-2 px-4 rounded-full w-full focus:outline-none focus:shadow-outline mt-4 block"
+                >
                   Delete Job
                 </button>
               </div>
